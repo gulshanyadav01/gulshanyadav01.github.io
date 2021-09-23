@@ -1,0 +1,22 @@
+{
+  "name": "gulshanyadav01.github.io",
+  "version": "1.0.0",
+  "description": "this is my personal website(portfolio)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulshanyadav01/gulshanyadav01.github.io.git"
+  },
+  "author": "gulshanyadav01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gulshanyadav01/gulshanyadav01.github.io/issues"
+  },
+  "homepage": "https://github.com/gulshanyadav01/gulshanyadav01.github.io#readme",
+  "dependencies": {
+    "github-pages": "^3.0.2"
+  }
+}
