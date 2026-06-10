@@ -47,3 +47,11 @@
 {"ts":"2026-06-10T11:33:30.660Z","cmd":"reload","args":"","origin":"http://localhost:8742/","durationMs":23,"status":"ok","hasCookies":false,"mode":"launched"}
 {"ts":"2026-06-10T11:33:30.704Z","cmd":"js","args":"document.querySelectorAll('.reveal').forEach(el => el.classList.add('visible')); 'ok'","origin":"http://localhost:8742/","durationMs":1,"status":"ok","hasCookies":false,"mode":"launched"}
 {"ts":"2026-06-10T11:33:32.392Z","cmd":"screenshot","args":"/tmp/hero-banquet2.png --clip 0,0,1440,860","origin":"http://localhost:8742/","durationMs":113,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-06-10T11:35:04.471Z","cmd":"viewport","args":"1440x900","origin":"http://localhost:8742/","durationMs":1,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-06-10T11:35:04.533Z","cmd":"goto","args":"http://localhost:8742","origin":"http://localhost:8742/","durationMs":24,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-06-10T11:35:04.576Z","cmd":"js","args":"document.querySelectorAll('.reveal').forEach(el => el.classList.add('visible')); document.querySelectorAll('img[loading=lazy]').forEach(i => i.loading='eager'); 'ok'","origin":"http://localhost:8742/","durationMs":1,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-06-10T11:35:07.332Z","cmd":"screenshot","args":"/tmp/strip4-desktop.png --selector #beyond","origin":"http://localhost:8742/","durationMs":175,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-06-10T11:35:07.373Z","cmd":"viewport","args":"375x812","origin":"http://localhost:8742/","durationMs":2,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-06-10T11:35:07.431Z","cmd":"reload","args":"","origin":"http://localhost:8742/","durationMs":19,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-06-10T11:35:07.473Z","cmd":"js","args":"document.querySelectorAll('.reveal').forEach(el => el.classList.add('visible')); document.querySelectorAll('img[loading=lazy]').forEach(i => i.loading='eager'); 'ok'","origin":"http://localhost:8742/","durationMs":1,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-06-10T11:35:10.141Z","cmd":"screenshot","args":"/tmp/strip4-mobile.png --selector #beyond","origin":"http://localhost:8742/","durationMs":104,"status":"ok","hasCookies":false,"mode":"launched"}
