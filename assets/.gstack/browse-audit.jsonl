@@ -1,0 +1,4 @@
+{"ts":"2026-06-10T11:19:58.178Z","cmd":"viewport","args":"1440x900","origin":"about:blank","durationMs":5,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-06-10T11:19:58.232Z","cmd":"reload","args":"","origin":"about:blank","durationMs":9,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-06-10T11:19:58.296Z","cmd":"js","args":"document.querySelectorAll('.reveal').forEach(el => el.classList.add('visible')); 'ok'","origin":"about:blank","durationMs":2,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-06-10T11:20:00.503Z","cmd":"screenshot","args":"/tmp/portfolio-photos.png","origin":"about:blank","durationMs":128,"status":"ok","hasCookies":false,"mode":"launched"}
