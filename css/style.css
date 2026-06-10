@@ -451,7 +451,7 @@ h2 {
 
 .photo-strip {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 1.2rem;
   margin-top: 3rem;
 }
@@ -469,7 +469,7 @@ h2 {
   transition: transform 0.4s var(--ease);
 }
 
-.photo-strip figure:nth-child(even) { transform: translateY(1.4rem); }
+.photo-strip figure:nth-child(2) { transform: translateY(1.4rem); }
 
 .photo-strip img:hover { transform: scale(1.025); }
 
@@ -587,8 +587,8 @@ h2 {
   .ventures-grid,
   .beyond-grid { grid-template-columns: 1fr; }
 
-  .photo-strip { grid-template-columns: repeat(2, 1fr); gap: 1rem; }
-  .photo-strip figure:nth-child(even) { transform: none; }
+  .photo-strip { grid-template-columns: 1fr; gap: 1.6rem; }
+  .photo-strip figure:nth-child(2) { transform: none; }
 }
 
 @media (max-width: 720px) {
