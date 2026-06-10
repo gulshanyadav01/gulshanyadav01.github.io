@@ -262,8 +262,8 @@ h2 {
   height: 100%;
   object-fit: cover;
   /* zoom toward the subject's face — tuned for assets/photo.jpg */
-  transform: scale(1.7);
-  transform-origin: 50% 38%;
+  transform: scale(1.55);
+  transform-origin: 54% 40%;
 }
 
 .portrait-initials { display: none; }

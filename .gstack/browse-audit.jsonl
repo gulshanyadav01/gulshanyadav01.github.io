@@ -37,3 +37,13 @@
 {"ts":"2026-06-10T11:22:08.618Z","cmd":"screenshot","args":"/tmp/hero-crop.png --clip 0,0,1440,860","origin":"http://localhost:8742/","durationMs":107,"status":"ok","hasCookies":false,"mode":"launched"}
 {"ts":"2026-06-10T11:22:08.658Z","cmd":"scroll","args":"#beyond","origin":"http://localhost:8742/","durationMs":2,"status":"ok","hasCookies":false,"mode":"launched"}
 {"ts":"2026-06-10T11:22:10.863Z","cmd":"screenshot","args":"/tmp/beyond-strip.png --selector #beyond","origin":"http://localhost:8742/","durationMs":153,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-06-10T11:26:37.452Z","cmd":"goto","args":"https://gulshanyadav01.github.io/","origin":"https://gulshanyadav01.github.io/","durationMs":800,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-06-10T11:26:37.499Z","cmd":"js","args":"document.querySelectorAll('.reveal').forEach(el => el.classList.add('visible')); 'ok'","origin":"https://gulshanyadav01.github.io/","durationMs":1,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-06-10T11:26:39.991Z","cmd":"screenshot","args":"/tmp/live-site.png","origin":"https://gulshanyadav01.github.io/","durationMs":419,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-06-10T11:26:40.029Z","cmd":"console","args":"--errors","origin":"https://gulshanyadav01.github.io/","durationMs":0,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-06-10T11:32:50.837Z","cmd":"goto","args":"http://localhost:8742","origin":"http://localhost:8742/","durationMs":114,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-06-10T11:32:50.886Z","cmd":"js","args":"document.querySelectorAll('.reveal').forEach(el => el.classList.add('visible')); 'ok'","origin":"http://localhost:8742/","durationMs":1,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-06-10T11:32:52.541Z","cmd":"screenshot","args":"/tmp/hero-banquet.png --clip 0,0,1440,860","origin":"http://localhost:8742/","durationMs":85,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-06-10T11:33:30.660Z","cmd":"reload","args":"","origin":"http://localhost:8742/","durationMs":23,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-06-10T11:33:30.704Z","cmd":"js","args":"document.querySelectorAll('.reveal').forEach(el => el.classList.add('visible')); 'ok'","origin":"http://localhost:8742/","durationMs":1,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-06-10T11:33:32.392Z","cmd":"screenshot","args":"/tmp/hero-banquet2.png --clip 0,0,1440,860","origin":"http://localhost:8742/","durationMs":113,"status":"ok","hasCookies":false,"mode":"launched"}
